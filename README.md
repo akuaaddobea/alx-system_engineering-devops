@@ -1,2 +1,1 @@
-#!/bin/bash
-This is my second line as description for this repository's root'
+Script 1 changes currenty user to Betty 
